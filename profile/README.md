@@ -5,7 +5,7 @@
 </div>
 
 [ico-twitter]: https://img.shields.io/twitter/url?label=FireChain&style=social&url=https%3A%2F%2Ftwitter.com%2Fthefirechain
-[ico-website]: https://img.shields.io/static/v1?label=docs&message=FireChain&color=7B3FE4
+[ico-website]: https://img.shields.io/static/v1?label=docs&message=FireChain&color=920000
 
 [link-twitter]: https://twitter.com/thefirechain
 [link-website]: https://docs.thefirechain.com
